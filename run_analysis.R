@@ -60,5 +60,5 @@ HAR.data.tidy <- aggregate(HAR.data.sub[, 3:ncol(HAR.data.sub)],
 
 
 # write the tidy data to file
-write.table(HAR.data.tidy, get_path("tidy.txt"), row.name = FALSE)
+write.table(HAR.data.tidy, "tidy.txt", row.name = FALSE)
 
