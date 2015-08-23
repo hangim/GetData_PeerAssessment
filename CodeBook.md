@@ -1,6 +1,6 @@
 Hello, thans you for review my project.
 
-As a Chinese student, i'm not well at English writing, so this doucument maybe fill with spell error grammer errors, sorry about it.
+As a Chinese student, i'm not well at English writing, so this doucument maybe fill with spell and grammer error, sorry about it.
 
 #
 
@@ -20,7 +20,7 @@ I use `rbind` and `cbind` to merge the training and the test sets.
 
 ### step 2
 
-This step, firstly i notice there ary many columns include `mean` and `std`, so i just list all index about these columns to get `mean` and `standard deviation`.
+This step, firstly i notice there are many columns include `mean` and `std`, so i just list all index about these columns to get `mean` and `standard deviation`.
 
 But it isn't a elegant implement, so i change to use `Regular Expression` to extract them.
 
