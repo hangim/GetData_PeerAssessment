@@ -1,4 +1,4 @@
-Hello, thans you for review my project.
+Hello, thanks you for review my project.
 
 As a Chinese student, i'm not well at English writing, so this doucument maybe fill with spell and grammer error, sorry about it.
 
